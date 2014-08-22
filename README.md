@@ -1,7 +1,7 @@
 jira-powershell-client
 ======================
 
-1) *Jira-Issues* - show my list of tasks 
+1) *Jira-Issues* - show my list of tasks
 2) *Jira-Close* - close task
 3) *Jira-Time* - register time for task
 
