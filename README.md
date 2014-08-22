@@ -1,8 +1,8 @@
 jira-powershell-client
 ======================
 
-*Jira-Issues* - show my list of tasks 
-*Jira-Close* - close task
-*Jira-Time* - register time for task
+1) *Jira-Issues* - show my list of tasks 
+2) *Jira-Close* - close task
+3) *Jira-Time* - register time for task
 
-*Git-Clone* - clone with the selected task key and description as a message
+4) *Git-Clone* - clone with the selected task key and description as a message
