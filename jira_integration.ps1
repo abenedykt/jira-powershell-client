@@ -2,7 +2,7 @@
 $userName = "<<user name>>"
 
 function Jira-Auth-Header{
-    # basic credentials should be defuned as userName:password => md5
+    # basic credentials should be defuned as userName:password => base64
     return "Authorization:Basic <<insert basic credentials here>>"
 }
 
