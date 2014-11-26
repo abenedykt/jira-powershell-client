@@ -24,7 +24,7 @@ LIDTWO-420 Bug12
 >Jira-Time -Issue "LIDTWO-420" -Time 2h -Comment "Just a test fix"
 ```
 
-4) *Git-Clone* - clone with the selected task key and description as a message
+4) *Git-Commit* - clone with the selected task key and description as a message
 
 ```
 >Git-Commit "LIDTWO-233 Task1"
