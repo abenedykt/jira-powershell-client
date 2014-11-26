@@ -1,6 +1,11 @@
 ﻿$jiraBasePath = "http://<<url to jira>>/rest/api/2/"
 $userName = "<<user name>>"
 
+function Jira-Auth-Header{
+    # basic credentials should be defuned as userName:password => base64
+    return "Authorization:Basic YWJlbmVkeWt0OlBvd2llZHoxS29tcGxlbWVudA=="
+}
+
 function Jira-Tasks{
     Jira-Issues
 }
