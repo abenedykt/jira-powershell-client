@@ -3,7 +3,7 @@ $userName = "<<user name>>"
 
 function Jira-Auth-Header{
     # basic credentials should be defuned as userName:password => base64
-    return "Authorization:Basic YWJlbmVkeWt0OlBvd2llZHoxS29tcGxlbWVudA=="
+    return "Authorization:Basic <basicCredentails>"
 }
 
 function Jira-Tasks{
